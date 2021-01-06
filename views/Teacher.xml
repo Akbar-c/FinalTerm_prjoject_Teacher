@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Teachers>
+  <Teacher>
+    <name>rc</name>
+    <password>Rc123456#</password>
+    <username>Rcrayhan45</username>
+    <gender>Male</gender>
+    <email>a@gvs.com</email>
+    <phone>33</phone>
+    <Qualification>Bsc</Qualification>
+  </Teacher>
+  <user>
+    <name>Akbar</name>
+    <password>Rc123456#</password>
+    <username>Akbar45</username>
+    <gender>Male</gender>
+    <email>rayhan5096@gmail.com</email>
+    <phone>8989989</phone>
+    <Qualification>Bsc</Qualification>
+  </user>
+</Teachers>

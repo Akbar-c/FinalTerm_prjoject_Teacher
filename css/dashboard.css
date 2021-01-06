@@ -1,0 +1,48 @@
+<style>
+body {
+	
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  margin-left: 70px;
+  max-width: 80%;
+  margin: auto;
+  margin-top: 15px;
+
+}
+
+.topnav a {
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 72px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.topnav a:hover {
+  background-color:#333 ;
+  color: green
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+body {
+  background-color: black;
+}#wrapper{ 
+	display:block; 
+	width:90%; 
+	margin:auto; 
+} 
+#content{ 
+	display:block; 
+	width:80%; 
+	margin:auto; 
+} 
+
+</style>

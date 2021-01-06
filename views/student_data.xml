@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<users>
+  
+  
+   
+   <user id="1234">
+    <firstname>Emran</firstname>
+    <CGPA>2.98</CGPA>
+    <gender>Male</gender>
+    <phone>123445455</phone>
+    <email>rEmrann@gmail.com</email>
+     <marks>90</marks>
+  </user>
+   <user id="12345">
+    <firstname>shafiq</firstname>
+    <CGPA>4</CGPA>
+    <gender>Male</gender>
+    <phone>123445455</phone>
+    <email>shafiq@gmail.com</email>
+     <marks>90</marks>
+  </user>
+  <user id="12345">
+    <firstname>shafiq</firstname>
+    <CGPA>4</CGPA>
+    <gender>Male</gender>
+    <phone>123445455</phone>
+    <email>shafiq@gmail.com</email>
+     <marks>90</marks>
+  </user>
+</users>
